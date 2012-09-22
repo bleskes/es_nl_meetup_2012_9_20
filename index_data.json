@@ -1,0 +1,6 @@
+{ "index" : { "_index" : "meetup", "_type" : "doc", "_id" : "1" } }
+{ "doc" : "The quick brown fox jumps over the lazy dog", "published" : "2012-09-01T20:00Z", "username" : "JamesBrown", "copies" : 1 }
+{ "index" : { "_index" : "meetup", "_type" : "doc", "_id" : "2" } }
+{ "doc" : "The lazy dog jumps over a quick brown fox", "published" : "2012-09-03T20:00Z", "username" : "JackieChan", "copies" : 2  }
+{ "index" : { "_index" : "meetup", "_type" : "doc", "_id" : "3" } }
+{ "doc" : "The quick brown fox jumps over the lazy dog", "published" : "2012-09-08T20:00Z", "username" : "JamesBrown","copies" : 3  }
