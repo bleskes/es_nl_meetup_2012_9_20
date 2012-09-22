@@ -1,0 +1,1 @@
+This is the code I used during my presentation at the ElasticSearch NL meetup on 20/9/2012. You can watch the presentation at http://www.slideshare.net/bleskes/elastic-search-meetup-2092012 .
